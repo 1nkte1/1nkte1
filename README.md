@@ -6,5 +6,5 @@
 
 ## мои проекты ! 
 
-- [веб-сайт дачного посёлка](github.com/Kristina-112/Website_selo) — адаптивная вёрстка, React, Sass
-- [веб-мессенджер - дипломный проект](github.com/2klaymor/web-messenger) — авторизация, чат, работа с axios и socket.io 
+- [веб-сайт дачного посёлка](https://github.com/Kristina-112/Website_selo) — адаптивная вёрстка, React, Sass
+- [веб-мессенджер - дипломный проект](https://github.com/2klaymor/web-messenger) — авторизация, чат, работа с axios и socket.io 
