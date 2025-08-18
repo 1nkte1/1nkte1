@@ -18,7 +18,10 @@
 
 - [веб-сайт дачного посёлка](https://github.com/Kristina-112/Website_selo) — адаптивная вёрстка, React, Sass
 <p align="center">
-    <img src="./assets/houses.jpg" height="300"/>
-  <img src="./assets/description.jpg" height="300"/>
-  <img src="./assets/gallery.jpg" height="300"/>
+  <img src="./assets/description.jpg" width="400"/>
+  <img src="./assets/gallery.jpg" width="300"/>
 </p>
+<p align="center">
+    <img src="./assets/houses.jpg" width="500"/>
+</p>
+
