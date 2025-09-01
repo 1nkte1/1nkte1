@@ -17,7 +17,7 @@
 
 ---
 
-### [веб-мессенджер](https://github.com/2klaymor/web-messenger) - дипломный проект. React 
+### [веб-мессенджер](https://github.com/2klaymor/web-messenger) - дипломный проект
 чат с авторизацией, axios, socket.io, JWT  
 [демо](https://deadinsite.vercel.app)
 
