@@ -1,10 +1,10 @@
 ## привет, я Дина Комаеда 
 
-- программист, выпускница СПО (Информационные системы и программирование, 2025)
+- программист, выпускница колледжа (Информационные системы и программирование, 2025)
 - начинающий frontend-разработчик
 - владею **HTML**, **CSS** (Sass, Bootstrap), BEM, FSD, **JavaScript**, **React** (JSX, Router, Framer Motion), Python
 
-## мои проекты ! 
+## мои проекты ! (react)
 
 - [веб-мессенджер](https://github.com/2klaymor/web-messenger). дипломный проект. чат, авторизация, axios, socket.io
 - https://deadinsite.vercel.app
