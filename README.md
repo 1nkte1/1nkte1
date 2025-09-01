@@ -7,7 +7,7 @@
 ## мои проекты ! 
 
 - [веб-мессенджер](https://github.com/2klaymor/web-messenger). дипломный проект. чат, авторизация, axios, socket.io
-- https://vercel.com/1nkte1s-projects/deadinsite
+- https://deadinsite.vercel.app)
 
 <p align="center">
   <img src="./assets/start.jpeg" width="400"/>
@@ -19,7 +19,7 @@
 
 
 - [веб-сайт для дачного посёлка](https://github.com/Kristina-112/Website_selo). учебная практика
-- https://vercel.com/1nkte1s-projects/zapovednoe
+- https://zapovednoe.vercel.app
 
 <p align="center">
   <img src="./assets/description.jpg" width="400"/>
