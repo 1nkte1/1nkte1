@@ -7,7 +7,7 @@
 ## мои проекты ! 
 
 - [веб-мессенджер](https://github.com/2klaymor/web-messenger). дипломный проект. чат, авторизация, axios, socket.io
-- https://deadinsite.vercel.app)
+- https://deadinsite.vercel.app
 
 <p align="center">
   <img src="./assets/start.jpeg" width="400"/>
