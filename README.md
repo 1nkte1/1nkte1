@@ -33,7 +33,7 @@
 
 ### [сайт для дачного посёлка](https://github.com/Kristina-112/Website_selo) - учебная практика
 адаптивная верстка  
-[демо](https://zapovendoe.vercel.app)
+[демо](https://zapovednoe.vercel.app)
 
 <p align="center">
   <img src="./assets/description.jpg" height="400"/>
